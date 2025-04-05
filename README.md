@@ -22,20 +22,17 @@ Automatic train-test splitting:
 * "The 20% you must let go of (practice data detachment)"
 
 ## Supported Models
-Linear Regression with Ridge:
-
-"Discipline for overenthusiastic coefficients"
+Linear Regression with Ridge: "Discipline for overenthusiastic coefficients"
 
 ## Model metrics:
 
-"MSE: Measuring suffering in squared units"
-
-"R²: The virtue of explained variance"
+* "MSE: Measuring suffering in squared units"
+* "MAE": Because sometimes life isn't squared, just brutally linear
+* "R²: The virtue of explained variance"
 
 ## Visualization
-"Plots so clear even Marcus Aurelius would approve"
-
-"Feature importance: Knowing what truly matters"
+* "Plots so clear even Marcus Aurelius would approve"
+* "Feature importance: Knowing what truly matters"
 
 Project Structure
 
