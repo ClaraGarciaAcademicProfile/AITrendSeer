@@ -1,8 +1,7 @@
 # AITrendSeer (Another Linear Regression Model... Ridge version)
 
-"What doesn't kill your model makes it robust" - Modern Data Stoicism
-
-A comprehensive data preprocessing and modeling framework that embraces the chaos of real-world data with philosophical resilience.
+"What doesn't kill your model makes it robust"
+A comprehensive data preprocessing and modeling framework that embraces the chaos of real-world data with PHILOSOPHICAL resilience.
 
 ## Description
 
