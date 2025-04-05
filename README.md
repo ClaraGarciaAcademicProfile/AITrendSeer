@@ -1,4 +1,4 @@
-# AITrendSeer - Machine Learning Pipeline
+# AITrendSeer (Another Linear Regression Model... Ridge version)
 
 "What doesn't kill your model makes it robust" - Modern Data Stoicism
 
@@ -7,17 +7,15 @@ A comprehensive data preprocessing and modeling framework that embraces the chao
 ## Description
 
 Features:
+
 * Data Processing Pipeline
 * Missing value handling:
-
-"Medians don't lie" (Numerical imputation)
-
-"When in doubt, label it 'UNKNOWN'", as a new category (Categorical imputation philosophy)
+   *  "Medians don't lie" (Numerical imputation)
+   *  "When in doubt, label it 'UNKNOWN'", as a new category (Categorical imputation philosophy)
 
 Feature transformations:
 
 * "One-Hot Encoding: Because sometimes categories need personal space"
-
 * "Standard Scaling: Keeping your features as balanced as a Stoic's emotions (-1 to 1)"
 
 Automatic train-test splitting:
